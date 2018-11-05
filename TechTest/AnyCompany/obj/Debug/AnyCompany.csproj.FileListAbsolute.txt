@@ -1,0 +1,6 @@
+C:\Projects\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\TechTest\AnyCompany\bin\Debug\AnyCompany.dll
+C:\Projects\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\TechTest\AnyCompany\bin\Debug\AnyCompany.pdb
+C:\Projects\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\TechTest\AnyCompany\obj\Debug\AnyCompany.csprojAssemblyReference.cache
+C:\Projects\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\TechTest\AnyCompany\obj\Debug\AnyCompany.csproj.CoreCompileInputs.cache
+C:\Projects\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\TechTest\AnyCompany\obj\Debug\AnyCompany.dll
+C:\Projects\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\tech-test-7f6d52ed90c75435e1d11fcba31b9502543a4eaf\TechTest\AnyCompany\obj\Debug\AnyCompany.pdb
